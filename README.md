@@ -2,6 +2,8 @@
 
 Console Image Browser is a small script wrapper around the [Terminal Image Viewer](https://github.com/stefanhaustein/TerminalImageViewer) and [catimg](https://github.com/posva/catimg/) utilities that lets you quickly view and browse through images on the command-line.
 
+![cib](https://user-images.githubusercontent.com/9295750/62556313-72297400-b829-11e9-8339-4b934dac4a10.gif)
+
 ## Requirements
 
 * image_size gem for printing image dimensions
@@ -69,6 +71,7 @@ Possible additional features for future development:
 * Browse all images on a page given a website URL
 * Support for additional image formats
 * Open image in default image viewer
+* Show EXIF metadata
 
 PRs, suggestions, and other contributions are welcome!
 
