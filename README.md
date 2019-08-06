@@ -77,7 +77,7 @@ PRs, suggestions, and other contributions are welcome!
 
 ## Credits
 
-This scripts relies heavily on [Terminal Image Viewer](https://github.com/stefanhaustein/TerminalImageViewer) by Stefan Haustein and [catimg](https://github.com/posva/catimg/) by Eduardo San Martin Morote.
+This script relies heavily on [Terminal Image Viewer](https://github.com/stefanhaustein/TerminalImageViewer) by Stefan Haustein and [catimg](https://github.com/posva/catimg/) by Eduardo San Martin Morote.
 
 Example images in demo are by [Luc Viatour](https://commons.wikimedia.org/wiki/User:Lviatour) from Wikimedia Commons.
 
